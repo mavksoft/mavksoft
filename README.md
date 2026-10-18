@@ -7,12 +7,12 @@
 
 | Producto | Qué hace | Descargas |
 |---|---|---|
-| **IO Backup** | La evolución de Cobian Backup — instantáneas incrementales navegables, control remoto desde el móvil | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
-| **DLNA Server** | Servidor DLNA/UPnP para macOS: tu biblioteca en la tele con pósters y metadatos IA, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
-| **Mac AutoLock** | Bloqueo/desbloqueo del Mac por proximidad Bluetooth | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
-| **Net-Analyzer** | Escáner de red para macOS: descubrimiento, fabricantes, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
-| **Dynamic DNS Pro** | DDNS automático: tu IP siempre localizable + agente Windows con auditoría y escritorio remoto | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
-| **IT-Community** | Portal + apps para comunidades de propietarios y administradores de fincas | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
+| [**IO Backup**](https://github.com/mavksoft/io-backup-releases) | La evolución de Cobian Backup — instantáneas incrementales navegables, control remoto desde el móvil | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
+| [**DLNA Server**](https://github.com/mavksoft/dlnaserver-releases) | Servidor DLNA/UPnP para macOS: tu biblioteca en la tele con pósters y metadatos IA, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
+| [**Mac AutoLock**](https://github.com/mavksoft/macautolock-releases) | Bloqueo/desbloqueo del Mac por proximidad Bluetooth | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
+| [**Net-Analyzer**](https://github.com/mavksoft/scanner-macos-releases) | Escáner de red para macOS: descubrimiento, fabricantes, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
+| [**Dynamic DNS Pro**](https://github.com/mavksoft/dynamicdnspro-releases) | DDNS automático: tu IP siempre localizable + agente Windows con auditoría y escritorio remoto | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
+| [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portal + apps para comunidades de propietarios y administradores de fincas | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
 Cada repositorio incluye el README en 6 idiomas (ES·EN·DE·FR·IT·PT), instrucciones de instalación, ediciones/precios y FAQ.
 
@@ -26,12 +26,12 @@ Cada repositorio incluye el README en 6 idiomas (ES·EN·DE·FR·IT·PT), instru
 
 | Product | What it does | Downloads |
 |---|---|---|
-| **IO Backup** | The evolution of Cobian Backup — browsable incremental snapshots, mobile remote control | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
-| **DLNA Server** | DLNA/UPnP server for macOS: your library on the TV with AI posters/metadata, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
-| **Mac AutoLock** | Bluetooth proximity lock/unlock for your Mac | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
-| **Net-Analyzer** | Network scanner for macOS: discovery, vendors, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
-| **Dynamic DNS Pro** | Automatic DDNS: your IP always reachable + Windows agent with auditing & remote desktop | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
-| **IT-Community** | Portal + apps for homeowners' communities and property managers | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
+| [**IO Backup**](https://github.com/mavksoft/io-backup-releases) | The evolution of Cobian Backup — browsable incremental snapshots, mobile remote control | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
+| [**DLNA Server**](https://github.com/mavksoft/dlnaserver-releases) | DLNA/UPnP server for macOS: your library on the TV with AI posters/metadata, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
+| [**Mac AutoLock**](https://github.com/mavksoft/macautolock-releases) | Bluetooth proximity lock/unlock for your Mac | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
+| [**Net-Analyzer**](https://github.com/mavksoft/scanner-macos-releases) | Network scanner for macOS: discovery, vendors, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
+| [**Dynamic DNS Pro**](https://github.com/mavksoft/dynamicdnspro-releases) | Automatic DDNS: your IP always reachable + Windows agent with auditing & remote desktop | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
+| [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portal + apps for homeowners' communities and property managers | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
 Each repository ships a README in 6 languages (ES·EN·DE·FR·IT·PT), install instructions, editions/pricing and FAQ.
 
@@ -45,12 +45,12 @@ Each repository ships a README in 6 languages (ES·EN·DE·FR·IT·PT), install 
 
 | Produkt | Funktion | Downloads |
 |---|---|---|
-| **IO Backup** | Die Evolution von Cobian Backup — durchsuchbare inkrementelle Snapshots, Fernsteuerung per App | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
-| **DLNA Server** | DLNA/UPnP-Server für macOS: deine Bibliothek auf dem TV mit KI-Postern/Metadaten, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
-| **Mac AutoLock** | Bluetooth-Näherungs-Sperre/Entsperrung für deinen Mac | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
-| **Net-Analyzer** | Netzwerk-Scanner für macOS: Erkennung, Hersteller, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
-| **Dynamic DNS Pro** | Automatisches DDNS: deine IP immer erreichbar + Windows-Agent mit Audit & Remote-Desktop | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
-| **IT-Community** | Portal + Apps für Eigentümergemeinschaften und Hausverwaltungen | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
+| [**IO Backup**](https://github.com/mavksoft/io-backup-releases) | Die Evolution von Cobian Backup — durchsuchbare inkrementelle Snapshots, Fernsteuerung per App | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
+| [**DLNA Server**](https://github.com/mavksoft/dlnaserver-releases) | DLNA/UPnP-Server für macOS: deine Bibliothek auf dem TV mit KI-Postern/Metadaten, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
+| [**Mac AutoLock**](https://github.com/mavksoft/macautolock-releases) | Bluetooth-Näherungs-Sperre/Entsperrung für deinen Mac | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
+| [**Net-Analyzer**](https://github.com/mavksoft/scanner-macos-releases) | Netzwerk-Scanner für macOS: Erkennung, Hersteller, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
+| [**Dynamic DNS Pro**](https://github.com/mavksoft/dynamicdnspro-releases) | Automatisches DDNS: deine IP immer erreichbar + Windows-Agent mit Audit & Remote-Desktop | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
+| [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portal + Apps für Eigentümergemeinschaften und Hausverwaltungen | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
 Jedes Repository enthält ein README in 6 Sprachen (ES·EN·DE·FR·IT·PT), Installationsanleitung, Editionen/Preise und FAQ.
 
@@ -64,12 +64,12 @@ Jedes Repository enthält ein README in 6 Sprachen (ES·EN·DE·FR·IT·PT), Ins
 
 | Produit | Fonction | Téléchargements |
 |---|---|---|
-| **IO Backup** | L'évolution de Cobian Backup — snapshots incrémentaux navigables, pilotage depuis le mobile | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
-| **DLNA Server** | Serveur DLNA/UPnP pour macOS : votre bibliothèque sur la TV avec affiches/métadonnées IA, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
-| **Mac AutoLock** | Verrouillage/déverrouillage du Mac par proximité Bluetooth | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
-| **Net-Analyzer** | Scanner réseau pour macOS : découverte, fabricants, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
-| **Dynamic DNS Pro** | DDNS automatique : votre IP toujours joignable + agent Windows avec audit et bureau à distance | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
-| **IT-Community** | Portail + apps pour copropriétés et administrateurs de biens | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
+| [**IO Backup**](https://github.com/mavksoft/io-backup-releases) | L'évolution de Cobian Backup — snapshots incrémentaux navigables, pilotage depuis le mobile | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
+| [**DLNA Server**](https://github.com/mavksoft/dlnaserver-releases) | Serveur DLNA/UPnP pour macOS : votre bibliothèque sur la TV avec affiches/métadonnées IA, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
+| [**Mac AutoLock**](https://github.com/mavksoft/macautolock-releases) | Verrouillage/déverrouillage du Mac par proximité Bluetooth | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
+| [**Net-Analyzer**](https://github.com/mavksoft/scanner-macos-releases) | Scanner réseau pour macOS : découverte, fabricants, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
+| [**Dynamic DNS Pro**](https://github.com/mavksoft/dynamicdnspro-releases) | DDNS automatique : votre IP toujours joignable + agent Windows avec audit et bureau à distance | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
+| [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portail + apps pour copropriétés et administrateurs de biens | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
 Chaque dépôt inclut un README en 6 langues (ES·EN·DE·FR·IT·PT), instructions d'installation, éditions/tarifs et FAQ.
 
@@ -83,12 +83,12 @@ Chaque dépôt inclut un README en 6 langues (ES·EN·DE·FR·IT·PT), instructi
 
 | Prodotto | Cosa fa | Download |
 |---|---|---|
-| **IO Backup** | L'evoluzione di Cobian Backup — snapshot incrementali navigabili, controllo remoto dal mobile | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
-| **DLNA Server** | Server DLNA/UPnP per macOS: la tua libreria sulla TV con locandine/metadati AI, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
-| **Mac AutoLock** | Blocco/sblocco del Mac per prossimità Bluetooth | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
-| **Net-Analyzer** | Scanner di rete per macOS: scoperta, produttori, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
-| **Dynamic DNS Pro** | DDNS automatico: il tuo IP sempre raggiungibile + agente Windows con audit e desktop remoto | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
-| **IT-Community** | Portale + app per comunità di proprietari e amministratori di condominio | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
+| [**IO Backup**](https://github.com/mavksoft/io-backup-releases) | L'evoluzione di Cobian Backup — snapshot incrementali navigabili, controllo remoto dal mobile | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
+| [**DLNA Server**](https://github.com/mavksoft/dlnaserver-releases) | Server DLNA/UPnP per macOS: la tua libreria sulla TV con locandine/metadati AI, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
+| [**Mac AutoLock**](https://github.com/mavksoft/macautolock-releases) | Blocco/sblocco del Mac per prossimità Bluetooth | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
+| [**Net-Analyzer**](https://github.com/mavksoft/scanner-macos-releases) | Scanner di rete per macOS: scoperta, produttori, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
+| [**Dynamic DNS Pro**](https://github.com/mavksoft/dynamicdnspro-releases) | DDNS automatico: il tuo IP sempre raggiungibile + agente Windows con audit e desktop remoto | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
+| [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portale + app per comunità di proprietari e amministratori di condominio | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
 Ogni repository include un README in 6 lingue (ES·EN·DE·FR·IT·PT), istruzioni di installazione, edizioni/prezzi e FAQ.
 
@@ -102,12 +102,12 @@ Ogni repository include un README in 6 lingue (ES·EN·DE·FR·IT·PT), istruzio
 
 | Produto | O que faz | Downloads |
 |---|---|---|
-| **IO Backup** | A evolução do Cobian Backup — snapshots incrementais navegáveis, controlo remoto pelo telemóvel | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
-| **DLNA Server** | Servidor DLNA/UPnP para macOS: a sua biblioteca na TV com cartazes/metadados IA, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
-| **Mac AutoLock** | Bloqueio/desbloqueio do Mac por proximidade Bluetooth | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
-| **Net-Analyzer** | Analisador de rede para macOS: descoberta, fabricantes, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
-| **Dynamic DNS Pro** | DDNS automático: o seu IP sempre acessível + agente Windows com auditoria e desktop remoto | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
-| **IT-Community** | Portal + apps para comunidades de proprietários e administradores de condomínio | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
+| [**IO Backup**](https://github.com/mavksoft/io-backup-releases) | A evolução do Cobian Backup — snapshots incrementais navegáveis, controlo remoto pelo telemóvel | [Releases](https://github.com/mavksoft/io-backup-releases/releases) · [io-backup.com](https://www.io-backup.com) |
+| [**DLNA Server**](https://github.com/mavksoft/dlnaserver-releases) | Servidor DLNA/UPnP para macOS: a sua biblioteca na TV com cartazes/metadados IA, IPTV + EPG | [Releases](https://github.com/mavksoft/dlnaserver-releases/releases) · [dlnaserver.com](https://www.dlnaserver.com) |
+| [**Mac AutoLock**](https://github.com/mavksoft/macautolock-releases) | Bloqueio/desbloqueio do Mac por proximidade Bluetooth | [Releases](https://github.com/mavksoft/macautolock-releases/releases) · [macautolock.com](https://www.macautolock.com) |
+| [**Net-Analyzer**](https://github.com/mavksoft/scanner-macos-releases) | Analisador de rede para macOS: descoberta, fabricantes, Wake-on-LAN | [Releases](https://github.com/mavksoft/scanner-macos-releases/releases) · [scanner.net-analyzer.com](https://scanner.net-analyzer.com) |
+| [**Dynamic DNS Pro**](https://github.com/mavksoft/dynamicdnspro-releases) | DDNS automático: o seu IP sempre acessível + agente Windows com auditoria e desktop remoto | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
+| [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portal + apps para comunidades de proprietários e administradores de condomínio | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
 Cada repositório inclui um README em 6 idiomas (ES·EN·DE·FR·IT·PT), instruções de instalação, edições/preços e FAQ.
 
