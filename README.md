@@ -14,6 +14,7 @@
 | [**Dynamic DNS Pro**](https://github.com/mavksoft/dynamicdnspro-releases) | DDNS automático: tu IP siempre localizable + agente Windows con auditoría y escritorio remoto | [Releases](https://github.com/mavksoft/dynamicdnspro-releases/releases) · [dynamicdnspro.com](https://dynamicdnspro.com) |
 | [**Vault**](https://github.com/mavksoft/dynamicdnspro-vault-releases) | Gestor de contraseñas estilo 1Password: passkeys, autorrelleno, sincronización con Notas de Apple, auditoría Centinela — macOS·Windows·iOS·Android | [App](https://github.com/mavksoft/dynamicdnspro-vault-releases/releases) · [vaultd](https://github.com/mavksoft/dynamicdnspro-vaultd-releases/releases) · [vault.dynamicdnspro.com](https://vault.dynamicdnspro.com) |
 | [**Remote**](https://github.com/mavksoft/dynamicdnspro-remote-releases) | Escritorio remoto propio: accede a tus equipos desde cualquier lugar, Wake-on-LAN | [Releases](https://github.com/mavksoft/dynamicdnspro-remote-releases/releases) · [remote.dynamicdnspro.com](https://remote.dynamicdnspro.com) |
+| [**DualRDP**](https://dualrdp.com) | Escritorio remoto multi-motor: WebRTC, RDP nativo tunelado, RDS Shadowing y RDP en el navegador — sin abrir puertos | [dualrdp.com](https://dualrdp.com) · [remote.dualrdp.com](https://remote.dualrdp.com) · [app.dualrdp.com](https://app.dualrdp.com) |
 | [**Code Link**](https://github.com/mavksoft/code-link-vcode-releases) | Extensión VS Code: tickets, proyectos y agentes del ecosistema dentro del editor | [Releases](https://github.com/mavksoft/code-link-vcode-releases/releases) · [codelink.it-systems.es](https://codelink.it-systems.es) |
 | [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portal + apps para comunidades de propietarios y administradores de fincas | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
@@ -37,6 +38,7 @@ Cada repositorio incluye el README en 6 idiomas (ES·EN·DE·FR·IT·PT), instru
 | [**Vault**](https://github.com/mavksoft/dynamicdnspro-vault-releases) | 1Password-style password manager: passkeys, autofill, Apple Notes sync, Centinela audit — macOS·Windows·iOS·Android | [App](https://github.com/mavksoft/dynamicdnspro-vault-releases/releases) · [vaultd](https://github.com/mavksoft/dynamicdnspro-vaultd-releases/releases) · [vault.dynamicdnspro.com](https://vault.dynamicdnspro.com) |
 | [**Remote**](https://github.com/mavksoft/dynamicdnspro-remote-releases) | Self-hosted remote desktop: reach your machines from anywhere, Wake-on-LAN | [Releases](https://github.com/mavksoft/dynamicdnspro-remote-releases/releases) · [remote.dynamicdnspro.com](https://remote.dynamicdnspro.com) |
 | [**Code Link**](https://github.com/mavksoft/code-link-vcode-releases) | VS Code extension: ecosystem tickets, projects and agents inside the editor | [Releases](https://github.com/mavksoft/code-link-vcode-releases/releases) · [codelink.it-systems.es](https://codelink.it-systems.es) |
+| [**DualRDP**](https://dualrdp.com) | Multi-engine remote desktop: WebRTC, native tunneled RDP, RDS Shadowing and in-browser RDP — no port forwarding | [dualrdp.com](https://dualrdp.com) · [remote.dualrdp.com](https://remote.dualrdp.com) · [app.dualrdp.com](https://app.dualrdp.com) |
 | [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portal + apps for homeowners' communities and property managers | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
 Each repository ships a README in 6 languages (ES·EN·DE·FR·IT·PT), install instructions, editions/pricing and FAQ.
@@ -60,6 +62,7 @@ Each repository ships a README in 6 languages (ES·EN·DE·FR·IT·PT), install 
 | [**Remote**](https://github.com/mavksoft/dynamicdnspro-remote-releases) | Eigener Remote-Desktop: deine Rechner von überall erreichen, Wake-on-LAN | [Releases](https://github.com/mavksoft/dynamicdnspro-remote-releases/releases) · [remote.dynamicdnspro.com](https://remote.dynamicdnspro.com) |
 | [**Code Link**](https://github.com/mavksoft/code-link-vcode-releases) | VS-Code-Erweiterung: Tickets, Projekte und Agenten des Ökosystems im Editor | [Releases](https://github.com/mavksoft/code-link-vcode-releases/releases) · [codelink.it-systems.es](https://codelink.it-systems.es) |
 | [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portal + Apps für Eigentümergemeinschaften und Hausverwaltungen | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
+| [**DualRDP**](https://dualrdp.com) | Remote-Desktop mit mehreren Engines: WebRTC, natives getunneltes RDP, RDS-Shadowing und RDP im Browser — ohne Portfreigabe | [dualrdp.com](https://dualrdp.com) · [remote.dualrdp.com](https://remote.dualrdp.com) · [app.dualrdp.com](https://app.dualrdp.com) |
 
 Jedes Repository enthält ein README in 6 Sprachen (ES·EN·DE·FR·IT·PT), Installationsanleitung, Editionen/Preise und FAQ.
 
@@ -83,6 +86,7 @@ Jedes Repository enthält ein README in 6 Sprachen (ES·EN·DE·FR·IT·PT), Ins
 | [**Code Link**](https://github.com/mavksoft/code-link-vcode-releases) | Extension VS Code : tickets, projets et agents de l'écosystème dans l'éditeur | [Releases](https://github.com/mavksoft/code-link-vcode-releases/releases) · [codelink.it-systems.es](https://codelink.it-systems.es) |
 | [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portail + apps pour copropriétés et administrateurs de biens | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
+| [**DualRDP**](https://dualrdp.com) | Bureau à distance multi-moteur : WebRTC, RDP natif tunnelisé, RDS Shadowing et RDP dans le navigateur — sans ouverture de ports | [dualrdp.com](https://dualrdp.com) · [remote.dualrdp.com](https://remote.dualrdp.com) · [app.dualrdp.com](https://app.dualrdp.com) |
 Chaque dépôt inclut un README en 6 langues (ES·EN·DE·FR·IT·PT), instructions d'installation, éditions/tarifs et FAQ.
 
 **Assistance :** [support@it-systems.es](mailto:support@it-systems.es)
@@ -106,6 +110,7 @@ Chaque dépôt inclut un README en 6 langues (ES·EN·DE·FR·IT·PT), instructi
 | [**IT-Community**](https://github.com/mavksoft/juntas-it-community-releases) | Portale + app per comunità di proprietari e amministratori di condominio | [Juntas](https://github.com/mavksoft/juntas-it-community-releases/releases) · [Sync Agent](https://github.com/mavksoft/it-community-sync-agent-releases/releases) · [it-community.online](https://it-community.online) |
 
 Ogni repository include un README in 6 lingue (ES·EN·DE·FR·IT·PT), istruzioni di installazione, edizioni/prezzi e FAQ.
+| [**DualRDP**](https://dualrdp.com) | Desktop remoto multi-motore: WebRTC, RDP nativo tunnelizzato, RDS Shadowing e RDP nel browser — senza aprire porte | [dualrdp.com](https://dualrdp.com) · [remote.dualrdp.com](https://remote.dualrdp.com) · [app.dualrdp.com](https://app.dualrdp.com) |
 
 **Assistenza:** [support@it-systems.es](mailto:support@it-systems.es)
 </details>
@@ -129,5 +134,6 @@ Ogni repository include un README in 6 lingue (ES·EN·DE·FR·IT·PT), istruzio
 
 Cada repositório inclui um README em 6 idiomas (ES·EN·DE·FR·IT·PT), instruções de instalação, edições/preços e FAQ.
 
+| [**DualRDP**](https://dualrdp.com) | Ambiente remoto multi-motor: WebRTC, RDP nativo em túnel, RDS Shadowing e RDP no navegador — sem abrir portas | [dualrdp.com](https://dualrdp.com) · [remote.dualrdp.com](https://remote.dualrdp.com) · [app.dualrdp.com](https://app.dualrdp.com) |
 **Suporte:** [support@it-systems.es](mailto:support@it-systems.es)
 </details>
